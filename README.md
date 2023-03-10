@@ -1,9 +1,6 @@
-**Anuj Pai Raikar**
-
-Robotics and Autonomous Systems
+**ANUJ PAI RAIKAR**
 
 MS Robotics Engineering at WPI
-
 Looking for Internships and Full-Time roles related to Robotics Software
 
 Contact: [Email](apairaikar@wpi.edu), [LinkedIn](https://www.linkedin.com/in/anuj-pai-raikar/)
