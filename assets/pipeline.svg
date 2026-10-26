@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="What I work on: perceive, estimate, plan, control, interact">
+<title>What I work on: perceive, estimate, plan, control, interact</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#111a2e"/>
+  </linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="#1e293b" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="250" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="250" rx="18" fill="url(#grid)" opacity="0.55"/>
+<text x="600.0" y="38" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#94a3b8" letter-spacing="4">WHAT I WORK ON — THE WHOLE ROBOT LOOP</text>
+<path id="track" d="M124.0 137.0H1076.0" stroke="#334155" stroke-width="2" stroke-dasharray="4 6"/>
+<rect x="26.0" y="62" width="196" height="150" rx="14" fill="#0b1222" stroke="#22d3ee" stroke-opacity="0.55" stroke-width="1.5"/>
+<rect x="26.0" y="62" width="196" height="5" rx="2.5" fill="#22d3ee"/>
+<text x="124.0" y="102" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#22d3ee" letter-spacing="1.5">PERCEIVE</text>
+<text x="124.0" y="136" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">LiDAR &amp; camera</text>
+<text x="124.0" y="160" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">detection</text>
+<text x="124.0" y="184" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">multi-object tracking</text>
+<rect x="26.0" y="62" width="196" height="150" rx="14" fill="#22d3ee" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="5s" begin="0.0s" repeatCount="indefinite"/></rect>
+<path d="M236.0 129.0L248.0 137.0L236.0 145.0" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="264.0" y="62" width="196" height="150" rx="14" fill="#0b1222" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="1.5"/>
+<rect x="264.0" y="62" width="196" height="5" rx="2.5" fill="#a78bfa"/>
+<text x="362.0" y="102" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#a78bfa" letter-spacing="1.5">ESTIMATE</text>
+<text x="362.0" y="136" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">sensor fusion</text>
+<text x="362.0" y="160" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">Kalman / UKF</text>
+<text x="362.0" y="184" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">attitude estimation</text>
+<rect x="264.0" y="62" width="196" height="150" rx="14" fill="#a78bfa" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="5s" begin="1.0s" repeatCount="indefinite"/></rect>
+<path d="M474.0 129.0L486.0 137.0L474.0 145.0" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="502.0" y="62" width="196" height="150" rx="14" fill="#0b1222" stroke="#fbbf24" stroke-opacity="0.55" stroke-width="1.5"/>
+<rect x="502.0" y="62" width="196" height="5" rx="2.5" fill="#fbbf24"/>
+<text x="600.0" y="102" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#fbbf24" letter-spacing="1.5">PLAN</text>
+<text x="600.0" y="136" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">motion planning</text>
+<text x="600.0" y="160" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">trajectory generation</text>
+<text x="600.0" y="184" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">learned dynamics</text>
+<rect x="502.0" y="62" width="196" height="150" rx="14" fill="#fbbf24" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="5s" begin="2.0s" repeatCount="indefinite"/></rect>
+<path d="M712.0 129.0L724.0 137.0L712.0 145.0" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="740.0" y="62" width="196" height="150" rx="14" fill="#0b1222" stroke="#34d399" stroke-opacity="0.55" stroke-width="1.5"/>
+<rect x="740.0" y="62" width="196" height="5" rx="2.5" fill="#34d399"/>
+<text x="838.0" y="102" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#34d399" letter-spacing="1.5">CONTROL</text>
+<text x="838.0" y="136" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">MPC</text>
+<text x="838.0" y="160" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">sliding mode</text>
+<text x="838.0" y="184" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">CBF safety filters</text>
+<rect x="740.0" y="62" width="196" height="150" rx="14" fill="#34d399" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="5s" begin="3.0s" repeatCount="indefinite"/></rect>
+<path d="M950.0 129.0L962.0 137.0L950.0 145.0" fill="none" stroke="#94a3b8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="978.0" y="62" width="196" height="150" rx="14" fill="#0b1222" stroke="#f472b6" stroke-opacity="0.55" stroke-width="1.5"/>
+<rect x="978.0" y="62" width="196" height="5" rx="2.5" fill="#f472b6"/>
+<text x="1076.0" y="102" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#f472b6" letter-spacing="1.5">INTERACT</text>
+<text x="1076.0" y="136" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">on-device speech</text>
+<text x="1076.0" y="160" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">LLM tool calls</text>
+<text x="1076.0" y="184" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#e2e8f0">VLA policies</text>
+<rect x="978.0" y="62" width="196" height="150" rx="14" fill="#f472b6" opacity="0"><animate attributeName="opacity" values="0;0.12;0" dur="5s" begin="4.0s" repeatCount="indefinite"/></rect>
+<text x="600.0" y="236" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8">cars · drones · robot arms · mobile robots · edge devices</text>
+</svg>
