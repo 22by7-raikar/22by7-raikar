@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://22by7-raikar.github.io"><img src="https://img.shields.io/badge/Visit-Website-34d399?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="mailto:anujpairaikar98@gmail.com"><img src="https://img.shields.io/badge/Say_hi-Email-f472b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/anuj-pai-raikar/"><img src="https://img.shields.io/badge/Connect-LinkedIn-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/22by7-raikar/22by7-raikar.github.io/blob/main/data/Anuj_Pai_Raikar.pdf"><img src="https://img.shields.io/badge/Read-CV-a78bfa?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"></a>
